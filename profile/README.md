@@ -1,4 +1,4 @@
-> Android Fastboot Reset Tool 2.0 Free Download 100% TESTED 2025
+Android Fastboot Reset Tool 2.0 Free Download 100% TESTED 2025
 
 Android Fastboot Reset Tool is a light, easy to use and very efficient tool used to remove pattern, pin, FRP, MI account, Bootloader and many more through Fastboot, ADB, and EDL modes.
 
